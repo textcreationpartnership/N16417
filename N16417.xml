@@ -118,8 +118,9 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:021081_0000_0FB22E208B2C8CC8"/>
-                  <pb facs="tcp:021081_0001_0FB22E220CAC81C0" rendition="simple:additions"/>
+                  <pb facs="unknown:021081_0000_0FB22E208B2C8CC8"/>
+                  <pb facs="unknown:021081_0001_0FB22E220CAC81C0"
+                      rendition="simple:additions"/>
                   <p>SHIPWRECK. A SENTIMENTAL AND DESCRIPTIVE POEM. IN THREE CANTOS.</p>
                   <p>BY <hi>WILLIAM FALCONER,</hi> AN ENGLISH SAILOR.</p>
                   <q>
@@ -134,7 +135,7 @@
                   <p>PHILADELPHIA: PRINTED AND SOLD BY <hi>PRICHARD &amp; HALL,</hi> IN MARKET STREET, NEAR FRONT STREET. M.DCC.LXXXVIII.</p>
                </div>
                <div type="scenes">
-                  <pb facs="tcp:021081_0002_0FB22E23896CB840"/>
+                  <pb facs="unknown:021081_0002_0FB22E23896CB840"/>
                   <head>SCENE OF THE THREE CANTOS.</head>
                   <div type="scene">
                      <head>The Scene of the FIRST Canto</head>
@@ -154,7 +155,7 @@
             </front>
             <body>
                <div type="poem">
-                  <pb facs="tcp:021081_0003_0FB22E250663CDA0"/>
+                  <pb facs="unknown:021081_0003_0FB22E250663CDA0"/>
                   <head>THE SHIPWRECK.</head>
                   <div n="1" type="canto">
                      <head>CANTO I.</head>
@@ -174,7 +175,7 @@
                            </gap>uin ſmile, and drowns the groan of Death!</l>
                         <l>'Tis mine, retir'd beneath this cavern hoar,</l>
                         <l n="10"> That ſtands all-lonely on the ſea-beat ſhore,</l>
-                        <pb n="6" facs="tcp:021081_0004_0FB22E274C989818"/>
+                        <pb n="6" facs="unknown:021081_0004_0FB22E274C989818"/>
                         <l>Far other themes of deep diſtreſs to ſing</l>
                         <l>Than ever trembled from the vocal ſtring.</l>
                         <l>No pomp of battle ſweels the exalted ſtrain,</l>
@@ -218,7 +219,7 @@
                         <l>To plow the tide where wintery tempeſts roar?</l>
                         <l>Or ſhall a youth approach their hallow'd fane,</l>
                         <l>Stranger to Phoebus, and the tuneful Train?</l>
-                        <pb n="7" facs="tcp:021081_0005_0FB22E28C86788F8"/>
+                        <pb n="7" facs="unknown:021081_0005_0FB22E28C86788F8"/>
                         <l n="45"> Far from the Muſes' academic grove,</l>
                         <l>'Twas his the vaſt and trackleſs deep to rove.</l>
                         <l>Alternate change of climates has he known,</l>
@@ -254,7 +255,7 @@
                         <l>Purſu'd his weary ſteps with laſting hate!</l>
                         <l n="75"> Fous'd by her mandate, ſtorms of black array</l>
                         <l>Wirter'd the morn of life's advancing day;</l>
-                        <pb n="8" facs="tcp:021081_0006_0FB22E2A4914B8E8"/>
+                        <pb n="8" facs="unknown:021081_0006_0FB22E2A4914B8E8"/>
                         <l>Relax'd the ſinews of the living lyre,</l>
                         <l>And quench'd the kindling ſpark of vital fire.</l>
                         <l>Thus while forgotten or unknown he woos,</l>
@@ -299,7 +300,7 @@
                      <lg>
                         <l>O firſt-born daughter of primeval Time!</l>
                         <l n="110"> By whom, tranſmitted down in every clime,</l>
-                        <pb n="9" facs="tcp:021081_0007_0FB22E2BC77F8288"/>
+                        <pb n="9" facs="unknown:021081_0007_0FB22E2BC77F8288"/>
                         <l>The deeds of ages long elaps'd are known,</l>
                         <l>And blazon'd glories ſpread from zone to zone;</l>
                         <l>Whoſe breath diſſolves the gloom of mental night,</l>
@@ -338,7 +339,7 @@
                         <l>From Albion's coaſt, obſequious to the gale.</l>
                         <l>She o'er the ſpacious flood, from ſhore to ſhore,</l>
                         <l>Unwearying wafted her commercial ſtore.</l>
-                        <pb n="10" facs="tcp:021081_0008_0FB22E2EC6F29080"/>
+                        <pb n="10" facs="unknown:021081_0008_0FB22E2EC6F29080"/>
                         <l n="145"> The richeſt ports of Afric ſhe had view'd,</l>
                         <l>Thence to fair Italy her courſe purſu'd;</l>
                         <l>Had left behind Trinacria's burning iſle,</l>
@@ -378,7 +379,7 @@
                         <l>For rude Oppreſſion <gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> its genial ſires.</l>
-                        <pb n="11" facs="tcp:021081_0009_0FB22E2F870AC3D0"/>
+                        <pb n="11" facs="unknown:021081_0009_0FB22E2F870AC3D0"/>
                         <l>But ſtill her fields, with golden harveſts crown'd,</l>
                         <l>Supply the barren ſhores of Greece around.</l>
                         <l n="180"> What pale diſtreſs afflicts theſe wretched iſles!</l>
@@ -423,7 +424,7 @@
                            </gap>d to the <gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> of gain!</l>
-                        <pb n="12" facs="tcp:021081_0010_0FB22E310931A728"/>
+                        <pb n="12" facs="unknown:021081_0010_0FB22E310931A728"/>
                         <l>His anxious heart, impatient of delay,</l>
                         <l>Expects the winds to ſail from Candia's bay;</l>
                         <l>Determin'd from whatever point they riſe,</l>
@@ -465,7 +466,7 @@
                               <desc>•</desc>
                            </gap>
                         </l>
-                        <pb n="13" facs="tcp:021081_0011_0FB22E328905CC98"/>
+                        <pb n="13" facs="unknown:021081_0011_0FB22E328905CC98"/>
                         <l>He ſaw the moon through heaven's blue concave glide,</l>
                         <l>And into motion charm th' expanding tide;</l>
                         <l>While earth impetuous round her axle rolls,</l>
@@ -501,7 +502,7 @@
                         <l>Or win the anchor from its dark abode:</l>
                         <l>But drooping and relax'd in climes afar,</l>
                         <l n="275"> Tumultuous and undiſciplin'd in war.</l>
-                        <pb n="14" facs="tcp:021081_0012_0FB22E3462108CF0"/>
+                        <pb n="14" facs="unknown:021081_0012_0FB22E3462108CF0"/>
                         <l>Such Rodmond was; by learning unrefin'd,</l>
                         <l>That oft enlightens to corrupt the mind.</l>
                         <l>Boiſterous of manners; train'd, in early youth,</l>
@@ -538,7 +539,7 @@
                         <l>Awakening into bloom young Fancy's flower;</l>
                         <l>But frowning fortune, with untimely blaſt,</l>
                         <l>The bloſſom wither'd, and the dawn o'ercaſt.</l>
-                        <pb n="15" facs="tcp:021081_0013_0FB22E3709BD7050"/>
+                        <pb n="15" facs="unknown:021081_0013_0FB22E3709BD7050"/>
                         <l n="310"> Forlorn of heart, and by ſevere decree,</l>
                         <l>Condemn'd reluctant to the faithleſs ſea,</l>
                         <l>With long farewel he left the laurel grove,</l>
@@ -577,7 +578,7 @@
                         <l>He came, the victim of unhappy love!</l>
                         <l>His heart for Albert's beauteous daughter bled;</l>
                         <l>For her a ſecret flame his boſom fed.</l>
-                        <pb n="16" facs="tcp:021081_0014_0FB22E38878504B0"/>
+                        <pb n="16" facs="unknown:021081_0014_0FB22E38878504B0"/>
                         <l>Nor let the wretched ſlaves of folly ſcorn</l>
                         <l n="345"> This genuine paſſion, Nature's eldeſt-born!</l>
                         <l>'Twas his with laſting anguiſh to complain,</l>
@@ -614,7 +615,7 @@
                         <l n="375"> The flattering promiſe of his future joy!</l>
                         <l>He ſooth'd and menac'd, anxious to reclaim</l>
                         <l>This hopeleſs paſſion, or divert its aim:</l>
-                        <pb n="17" facs="tcp:021081_0015_0FB22E3A07BEB250"/>
+                        <pb n="17" facs="unknown:021081_0015_0FB22E3A07BEB250"/>
                         <l>Oft led the youth, where circling joys delight</l>
                         <l>The raviſh'd ſenſe, or beauty charms the ſight.</l>
                         <l n="380"> With all her powers inchanting muſic fail'd,</l>
@@ -654,7 +655,7 @@
                         <l>Though ſhunning ſtill to probe a wounded mind;</l>
                         <l>He felt the chaſtity of ſilent woe,</l>
                         <l n="410"> Though glad the balm of comfort to beſtow.</l>
-                        <pb n="18" facs="tcp:021081_0016_0FB22E3B8A727810"/>
+                        <pb n="18" facs="unknown:021081_0016_0FB22E3B8A727810"/>
                         <l>He, with Palemon, oft recounted o'er</l>
                         <l>The tales of hapleſs love in ancient lore,</l>
                         <l>Recall'd to me mory by th' adjacent ſhore.</l>
@@ -695,7 +696,7 @@
                         <l>And lo! the ſhore with mournful proſpects crown'd;<note place="bottom">Ver. 438. The intelligent reader will readily diſcover, that theſe remarks allude to the ever-memorable ſiege of Candia, which was taken from the Venetians by the Turks in 1669; being then conſidered as impregnable, and eſteem<g ref="char:EOLhyphen"/>ed the moſt formidable fortreſs in the univerſe.</note>
                         </l>
                         <l>The rampart torn with many a fatal wound;</l>
-                        <pb n="19" facs="tcp:021081_0017_0FB22E3E8B5D2E00"/>
+                        <pb n="19" facs="unknown:021081_0017_0FB22E3E8B5D2E00"/>
                         <l n="440"> The ruin'd bulwark tottering o'er the ſtrand,</l>
                         <l>Bewail the ſtroke of War's tremendous hand.</l>
                         <l>What ſcenes of woe this hapleſs iſle o'erſpread!</l>
@@ -736,7 +737,7 @@
                         <l>And prove the kind companion of his woe.</l>
                      </lg>
                      <lg>
-                        <pb n="20" facs="tcp:021081_0018_0FB22E4006EF3908"/>
+                        <pb n="20" facs="unknown:021081_0018_0FB22E4006EF3908"/>
                         <l>Albert thou know'ſt, with ſkill and ſcience grac'd,</l>
                         <l n="475"> In humble ſtation though by fortune plac'd:</l>
                         <l>Yet, never ſeaman more ſerenely brave</l>
@@ -775,7 +776,7 @@
                         <l n="505"> To Thames' fair banks her coſtly tribute bore:</l>
                         <l>While thus my father ſaw his ample hoard,</l>
                         <l>From this return, with recent treaſures ſtor'd;</l>
-                        <pb n="21" facs="tcp:021081_0019_0FB22E418C5D3110"/>
+                        <pb n="21" facs="unknown:021081_0019_0FB22E418C5D3110"/>
                         <l>Me, with affairs of commerce charg'd, he ſent</l>
                         <l>To Albert's humble manſion; ſoon I went,</l>
                         <l n="510"> Too ſoon, alas! unconſcious of th' event.</l>
@@ -809,7 +810,7 @@
                         <l>Nature was her's, and Innocence and Truth.</l>
                         <l>She never knew the city damſel's art,</l>
                         <l n="540"> Whoſe frothy pertneſs charms the vacant heart.</l>
-                        <pb n="22" facs="tcp:021081_0020_0FB22E43062AFEA8"/>
+                        <pb n="22" facs="unknown:021081_0020_0FB22E43062AFEA8"/>
                         <l>My ſuit prevail'd; for Love inform'd my tongue,</l>
                         <l>And on his votary's lips Perſuaſion hung.</l>
                         <l>Her eyes with conſcious ſympathy withdrew,</l>
@@ -846,7 +847,7 @@
                         <l>And only waited now the leading gale.</l>
                         <l>'Twas ours, in that ſad period, firſt to prove</l>
                         <l>The heart-felt torments of deſpairing love.</l>
-                        <pb n="23" facs="tcp:021081_0021_0FB22E4608EBFF20"/>
+                        <pb n="23" facs="unknown:021081_0021_0FB22E4608EBFF20"/>
                         <l n="575"> Th' impatient wiſh that never feels repoſe;</l>
                         <l>Deſire that with perpetual current flows;</l>
                         <l>The fluctuating pangs of hope and fear;</l>
@@ -886,7 +887,7 @@
                         <l>And kindle ſweet Affection's pureſt fire!</l>
                      </lg>
                      <lg>
-                        <pb n="24" facs="tcp:021081_0022_0FB22E47887D2C08"/>
+                        <pb n="24" facs="unknown:021081_0022_0FB22E47887D2C08"/>
                         <l n="610"> "Ah! wherefore ſhould my hopeleſs love, ſhe eries,</l>
                         <l>While ſorrow burſt with interrupting ſighs,</l>
                         <l>For ever deſtin'd to lament in vain,</l>
@@ -925,7 +926,7 @@
                         <l>To ſorrow doom the ſummer of thy youth;</l>
                         <l>And I, perſidious! all that ſweetneſs ſee</l>
                         <l>Conſign'd to laſting miſery for me?</l>
-                        <pb n="25" facs="tcp:021081_0023_0FB22E4906B6D388"/>
+                        <pb n="25" facs="unknown:021081_0023_0FB22E4906B6D388"/>
                         <l>Sooner, this moment may th' eternal doom</l>
                         <l n="645"> Palemon in the ſilent earth entomb!</l>
                         <l>Atteſt thou moon, fair regent of the night!</l>
@@ -963,7 +964,7 @@
                         <l>And gave the ſignal of a ſad adieu.</l>
                         <l n="675"> As on my neck th' afflicted maiden hung,</l>
                         <l>A thouſand racking doubts her ſpirit wrung</l>
-                        <pb n="26" facs="tcp:021081_0024_0FB22E4A8AAB81A0"/>
+                        <pb n="26" facs="unknown:021081_0024_0FB22E4A8AAB81A0"/>
                         <l>She wept the terrors of the ſearful wave,</l>
                         <l>Too oft, alas! the wandering lover's grave!</l>
                         <l>With ſoft perſuaſion I diſpell'd her fear,</l>
@@ -1005,7 +1006,7 @@
                         <l>In ſweet oblivion charms the ſenſe of pain.</l>
                      </lg>
                      <lg>
-                        <pb n="27" facs="tcp:021081_0025_0FB22E4DB008D448"/>
+                        <pb n="27" facs="unknown:021081_0025_0FB22E4DB008D448"/>
                         <l n="710"> Ye tender maids, in whoſe pathetic ſouls</l>
                         <l>Compaſſion's ſacred ſtream impetuous rolls;</l>
                         <l>Whoſe warm affections exquiſitely feel</l>
@@ -1044,7 +1045,7 @@
                         <l>To the green ocean roll with chiding wave.</l>
                         <l>The glaſſy ocean huſh'd forgets to roar,</l>
                         <l>But trembling murmurs on the ſandy ſhore:</l>
-                        <pb n="28" facs="tcp:021081_0026_0FB22E4F07A7AFB0"/>
+                        <pb n="28" facs="unknown:021081_0026_0FB22E4F07A7AFB0"/>
                         <l>And lo! his ſurface, lovely to behold,</l>
                         <l n="745"> Glows in the weſt, a ſea of living gold!</l>
                         <l>While, all above, a thouſand liveries gay</l>
@@ -1083,7 +1084,7 @@
                         <l n="775"> Approach'd the ſacred Hymeneal fane;</l>
                         <l>Anon tremendous lightnings flaſh between,</l>
                         <l>And funeral pomp, and weeping Loves are ſeen!</l>
-                        <pb n="29" facs="tcp:021081_0027_0FB22E5086DA5560"/>
+                        <pb n="29" facs="unknown:021081_0027_0FB22E5086DA5560"/>
                         <l>Now with Palemon up a rocky ſteep,</l>
                         <l>Whoſe ſummit trembles o'er the roaring deep,</l>
                         <l n="780"> With painful ſtep he climb'd; while far above</l>
@@ -1116,7 +1117,7 @@
                         <l>While azure radiance trembles on her ſides.</l>
                         <l n="805"> From eaſt to north the tranſient breezes play,</l>
                         <l>And in th' Egyptian quarter ſoon decay.</l>
-                        <pb n="30" facs="tcp:021081_0028_0FB22E5206EBCA20"/>
+                        <pb n="30" facs="unknown:021081_0028_0FB22E5206EBCA20"/>
                         <l>A calm enſues; they dread th' adjacent ſhore;</l>
                         <l>The b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
@@ -1153,7 +1154,7 @@
                         <l n="830"> And blot the ſun, yet ſtruggling in the cloud:</l>
                         <l>Through the wide atmoſphere, condens'd with haze,</l>
                         <l>His glaring orb emits a ſanguine blaze.</l>
-                        <pb n="31" facs="tcp:021081_0029_0FB22E551B8DD540"/>
+                        <pb n="31" facs="unknown:021081_0029_0FB22E551B8DD540"/>
                         <l>The pilots now their rules of art apply,</l>
                         <l>The myſtic needle's devious aim to try.</l>
                         <l n="835"> The compaſs plac'd to catch the riſing ray,<note place="bottom">Ver. 835. The operation of taking the ſun's azimuth, in order to diſcover the eaſtern or weſtern variation of the mag<g ref="char:EOLhyphen"/>netical needle.</note>
@@ -1184,7 +1185,7 @@
                         <l>Gaz'd o'er the vaſſal-wave that roll'd below:</l>
                         <l>Where'er ſhe mov'd, the vaſſal-waves were ſeen</l>
                         <l>To yield obſequious and confeſs their queen.</l>
-                        <pb n="32" facs="tcp:021081_0030_0FB22E568642E3D8"/>
+                        <pb n="32" facs="unknown:021081_0030_0FB22E568642E3D8"/>
                         <l>Th' imperial trident grac'd her dexter hand,</l>
                         <l n="860"> Of power to rule the ſurge, like Moſes' wand,</l>
                         <l>Th' eternal empire of the m<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1221,7 +1222,7 @@
                         <l n="890"> Her ancient foe, but now her friend confeſs'd,</l>
                         <l>The warlike nymph with fond regard ſurvey'd:</l>
                         <l>No more his hoſtile frown her heart diſmay'd.</l>
-                        <pb n="33" facs="tcp:021081_0031_0FB22E58074C1678"/>
+                        <pb n="33" facs="unknown:021081_0031_0FB22E58074C1678"/>
                         <l>His look, that once ſhot terror from afar,</l>
                         <l>Like young Alcides, or the god of war,</l>
                         <l n="895"> Serene as ſummer's evening ſkies ſhe ſaw;</l>
@@ -1257,7 +1258,7 @@
                            </gap> proud oak his filial branches ſpread:</l>
                         <l>While on the ſea-beat ſhore obſequious ſtood,</l>
                         <l n="925"> Beneath their feet, the father of the flood.</l>
-                        <pb n="34" facs="tcp:021081_0032_0FB22E5A92331E60"/>
+                        <pb n="34" facs="unknown:021081_0032_0FB22E5A92331E60"/>
                         <l>Here, the bold native of her cliffs above,</l>
                         <l>Perch'd by the martial maid the bird of Jove;</l>
                         <l>There on the watch, ſagacious of his prey,</l>
@@ -1278,7 +1279,7 @@
                      <trailer>END OF THE FIRST CANTO,</trailer>
                   </div>
                   <div n="2" type="canto">
-                     <pb facs="tcp:021081_0033_0FB22E5BCA9AC860"/>
+                     <pb facs="unknown:021081_0033_0FB22E5BCA9AC860"/>
                      <head>CANTO II.</head>
                      <argument>
                         <p>The Argument. Reflection on leaving the land. The gale continues. A water-ſpout. Beauty of a dying dolphin. The ſhip's progreſs along the ſhore. Wind ſtrengthens. The ſails reduced. A ſhoal of porpoiſes. Laſt appearance of cape Spado. Sea riſes. A ſquall. The ſails further diminiſh<g ref="char:EOLhyphen"/>ed. Mainſail ſplit. Ship bears away before the wind. Again hauls upon the wind. Another mainſail fitted to the yard. The gale ſtill increaſes. Topſails furled. Top<g ref="char:EOLhyphen"/>gallant-yards ſent down. Sea enlarges. Sun-ſet. Courſes reefed. Four ſeamen loſt off the lee main-yard-arm. Anxiety of the pilots from their dangerous ſituation. Re<g ref="char:EOLhyphen"/>ſolute behaviour of the ſailors. The ſhip labours in great diſtreſs. The artillery thrown overboard. Diſmal ap<g ref="char:EOLhyphen"/>pearance of the weather. Very high and dangerous ſea. Severe fatigue of the crew. Conſultation and reſolution of the officers. Speech and advice of Albert to the crew. Neceſſary diſpoſition to veer before the wind. Diſap<g ref="char:EOLhyphen"/>pointment in the propoſed effect. New diſpoſitions equally unſucceſsful. The mizen-maſt cut away.</p>
@@ -1286,7 +1287,7 @@
                      <lg>
                         <l>ADIEU, ye pleaſures of the rural ſcene,</l>
                         <l>Where peace and calm contentment dwell ſerene!</l>
-                        <pb n="36" facs="tcp:021081_0034_0FB22E5D48B6BE50"/>
+                        <pb n="36" facs="unknown:021081_0034_0FB22E5D48B6BE50"/>
                         <l>To me in vain, on earth's polific ſoil,</l>
                         <l>With ſummer crown'd th' Elyſian vallies ſmile!</l>
                         <l n="5"> To <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -1327,7 +1328,7 @@
                         <l>Dwells on the beauties of his gentle mate.</l>
                         <l n="35"> Even they th' impreſſive dart of love can feel,</l>
                         <l>Whoſe ſtubborn ſouls are ſheath'd in triple ſteel.</l>
-                        <pb n="37" facs="tcp:021081_0035_0FB22E5EC94F9F08"/>
+                        <pb n="37" facs="unknown:021081_0035_0FB22E5EC94F9F08"/>
                         <l>Nor leſs o'er-joy'd, perhaps with equal truth,</l>
                         <l>Each faithful maid expects th' approaching youth.</l>
                         <l>In diſtant boſoms equal ardors glow,</l>
@@ -1366,7 +1367,7 @@
                         <l>Still drinks unquench'd the full aërial tide.</l>
                         <l>And now, approaching near the lofty ſtern,</l>
                         <l n="70"> A ſhoal of ſportive dolphins they diſcern.</l>
-                        <pb n="38" facs="tcp:021081_0036_0FB22E619AA5FDB0"/>
+                        <pb n="38" facs="unknown:021081_0036_0FB22E619AA5FDB0"/>
                         <l>From burniſh'd ſcales they beam refulgent rays,</l>
                         <l>Till all the glowing ocean ſeems to blaze.</l>
                         <l>Soon to the ſport of death the crew repair,</l>
@@ -1405,7 +1406,7 @@
                         <l>From their high ſtations ſink by ſlow degrees.</l>
                         <l>The watchful ruler of the helm no more,</l>
                         <l>With fix'd attention, eyes the adjacent ſhore.</l>
-                        <pb n="39" facs="tcp:021081_0037_0FB22E628B915D60"/>
+                        <pb n="39" facs="unknown:021081_0037_0FB22E628B915D60"/>
                         <l n="105"> But by the oracles of truth below,</l>
                         <l>The wondrous magnet guides the wayward pro<gap reason="illegible" resp="#PDCC" extent="2 letters">
                               <desc>••</desc>
@@ -1449,7 +1450,7 @@
                                  <desc>•</desc>
                               </gap>ing and furniture of the ſhip are, at this time, diſtinguiſhed by the ſide on which they are ſituated; as, the lee-cannon, the lee-braces, the weather-braces, &amp;c.</note>
                         </l>
-                        <pb n="40" facs="tcp:021081_0038_0FB22E6409B7F5F8"/>
+                        <pb n="40" facs="unknown:021081_0038_0FB22E6409B7F5F8"/>
                         <l>The ſailors now to give the ſhip relief,</l>
                         <l>Reduce the topſails by a ſingle reef.<note place="bottom">Ver. <hi>132.</hi> The topſails are large ſquare ſails of the ſecond degree in height and magnitude. Reefs are certain diviſions or ſpaces by which the principal ſails are reduced when the wind increaſes; and again enlarged proportionally when its force abates.</note>
                         </l>
@@ -1482,7 +1483,7 @@
                               </p>
                            </note>
                         </l>
-                        <pb n="41" facs="tcp:021081_0039_0FB22E6589F56C58"/>
+                        <pb n="41" facs="unknown:021081_0039_0FB22E6589F56C58"/>
                         <l>The ſhivering ſails deſcend; and now they ſquare</l>
                         <l n="150"> The yards, while ready ſailors mount in air.</l>
                         <l>The weather-earings and the lee they paſt;<note place="bottom">Ver. <hi>151.</hi> Earings are ſmall cords, by which the upper corners of the principal ſails, and alſo the extremities of the reefs, are faſtened to the yard-arms.</note>
@@ -1505,7 +1506,7 @@
                                  </gap>pe ſerving to confine the weather-clue of the ſail down to the ſhip's ſide, whilſt the former draws out the lee-clue or lower corner on the oppoſite ſide. Tacks are only uſed in a ſide wind.</p>
                            </note>
                         </l>
-                        <pb n="42" facs="tcp:021081_0040_0FB22E670685E818"/>
+                        <pb n="42" facs="unknown:021081_0040_0FB22E670685E818"/>
                         <l>The boiſterous ſquall ſtill preſſes from on high,</l>
                         <l n="165"> And ſwift, and fatal as the lightening's courſe,</l>
                         <l>Through the torn mainſail burſts with thundering force.</l>
@@ -1534,7 +1535,7 @@
                         <l n="185"> The helm to ſtarboard turns; with wings inclin'd<note place="bottom">Ver. <hi>185.</hi> The helm, being turned to ſtarboard, or to the right ſide of the ſhip, directs the prow to the left, or to port, and vice verſa. Hence the helm being put a-ſtarboard when the ſhip is ranning northward, direct. her prow toward the weſt.</note>
                         </l>
                         <l>The ſidelong canvas claſps the faithleſs wind.</l>
-                        <pb n="43" facs="tcp:021081_0041_0FB22E6A48C550C8"/>
+                        <pb n="43" facs="unknown:021081_0041_0FB22E6A48C550C8"/>
                         <l>The mizen draws; ſhe ſprings aloof once more,</l>
                         <l>While the fore-ſtayſail balances before.<note place="bottom">Ver. <hi>188.</hi> This ſail, which is with more propriety called the foretop-maſt ſtayſail, is a triangular ſail that runs upon the foretop-maſt ſtay, over the bowſprit. It is uſed to com<g ref="char:EOLhyphen"/>mand the fore part of the ſhip, and counterbalance the ſails extended towards the ſtern. See alſo the laſt note of this canto.</note>
                         </l>
@@ -1562,7 +1563,7 @@
                         </l>
                         <l>And ſoon their earings and the roebins bend.<note place="bottom">Ver. <hi>206.</hi> Ropebands, pronounced roebins, are ſmall cords uſed to faſten the upper edge of any ſail to its reſpective yard.</note>
                         </l>
-                        <pb n="44" facs="tcp:021081_0042_0FB22E6B86BDB540"/>
+                        <pb n="44" facs="unknown:021081_0042_0FB22E6B86BDB540"/>
                         <l>That taſk perform'd, they firſt the braces ſlack,<note place="bottom">Ver. <hi>207.</hi> Becauſe the lee-brace confines the yard ſo that the tack will not come down to its place till the braces are caſt looſe.</note>
                         </l>
                         <l>Then to its ſtation drag th' unwilling tack;</l>
@@ -1603,7 +1604,7 @@
                         <l>And dreads the vengeance of ſo fell a foe.</l>
                         <l>As the proud horſe, with coſtly trappings gay,</l>
                         <l>Exulting prances to the bloody fray,</l>
-                        <pb n="45" facs="tcp:021081_0043_0FB22E6D0BDCDD80"/>
+                        <pb n="45" facs="unknown:021081_0043_0FB22E6D0BDCDD80"/>
                         <l>Spurning the ground, he glories in his might,</l>
                         <l>But reels tumultuous in the ſhock of fight.</l>
                         <l>Even ſo, capariſon'd in gaudy pride,</l>
@@ -1633,7 +1634,7 @@
                         </l>
                         <l n="255"> At each maſt-head the top-ropes others bend.<note place="bottom">Ver. <hi>255.</hi> Top-ropes are the cords by which the topgal<g ref="char:EOLhyphen"/>gallant-yards are hoiſted up from the deck, or lowered again in ſtormy weather.</note>
                         </l>
-                        <pb n="46" facs="tcp:021081_0044_0FB22E6FDF8561B8"/>
+                        <pb n="46" facs="unknown:021081_0044_0FB22E6FDF8561B8"/>
                         <l>The youngeſt ſailors from the yards above</l>
                         <l>Their parrels, lifts, and oraces ſoon remove;<note place="bottom">Ver. <hi>257.</hi> The parrel, which is uſually a moveable band of rope, is employed to confine the yard to its reſpective maſt.
 <p>Ver. ibid. Lifts are extended from the head of any maſt to the extremities of its particular yard, to ſupport the weight of the latter; to retain it in balance; or to raiſe one yard<g ref="char:EOLhyphen"/>arm higher than the other, which is accordingly called top<g ref="char:EOLhyphen"/>ping, ver. <hi>258.</hi>
@@ -1662,7 +1663,7 @@
                         <l>Now dipt in weſtern clouds his parting ray.</l>
                         <l>His ſickening fires, half loſt in ambient haze,</l>
                         <l n="275"> Refract along the duſk a crimſon blaze;</l>
-                        <pb n="47" facs="tcp:021081_0045_0FB22E70C61E6030"/>
+                        <pb n="47" facs="unknown:021081_0045_0FB22E70C61E6030"/>
                         <l>Till deep immerg'd the languid orb declines,</l>
                         <l>And now to cheerleſs night the ſky reſigns;</l>
                         <l>Sad evening's hour, how different from the paſt!</l>
@@ -1694,7 +1695,7 @@
                         <l>Soon flits to ruins in the furious gale.</l>
                         <l>And he who ſtrives the tempeſt to diſarm,</l>
                         <l>Will never firſt embrail the lee yard-arm.</l>
-                        <pb n="48" facs="tcp:021081_0046_0FB22E724805D540"/>
+                        <pb n="48" facs="unknown:021081_0046_0FB22E724805D540"/>
                         <l>The maſter ſaid;—obedient to command,</l>
                         <l n="305"> To raiſe the tack, the ready ſailors ſtand.<note place="bottom">Ver. <hi>305.</hi> It has been remarked before, in note <hi>163.</hi> pag. <hi>41.</hi> that the tack is always faſtened to windward; accord<g ref="char:EOLhyphen"/>ingly as ſoon as it is caſt looſe, and the cluegarnet hauled up, the weather-clue of the ſail immediately mounts to the yard; and this operation muſt be carefully performed in a ſtorm, to prevent the ſail from ſplitting, or being torn to pieces by ſhivering.</note>
                         </l>
@@ -1716,7 +1717,7 @@
                         <l>Below the down-haul-tackle others ply.<note place="bottom">Ver. <hi>319.</hi> The violence of the wind forces the yard ſo much outward from the maſt on theſe occaſions, that it cannot eaſily be lowered ſo as to reef the ſail, without the application of a tackle to haul it down on the maſt. This is afterwards con<g ref="char:EOLhyphen"/>verted into rolling-tackle. See the note on ver. <hi>248.</hi> p. <hi>45.</hi>
                            </note>
                         </l>
-                        <pb n="49" facs="tcp:021081_0047_0FB22E73C721AB18"/>
+                        <pb n="49" facs="unknown:021081_0047_0FB22E73C721AB18"/>
                         <l n="320"> Jears, lifts, and brails, a ſeaman each attends,<note place="bottom">Ver. <hi>320.</hi> Jears are the ſame to the mainſail, foreſail and mizen, as the haliards (note <hi>147.</hi> p. <hi>40.</hi>) are to all the infe<g ref="char:EOLhyphen"/>rior ſails. The tye is the upper part of the jears.</note>
                         </l>
                         <l>Along the maſt the willing yard deſcends.</l>
@@ -1740,7 +1741,7 @@
                         </l>
                         <l>From hand to hand, the reef-lines next receiv'd,</l>
                         <l n="335"> Through eyelet holes and roebin-legs were recv'd.</l>
-                        <pb n="50" facs="tcp:021081_0048_0FB22E7548B43DB0"/>
+                        <pb n="50" facs="unknown:021081_0048_0FB22E7548B43DB0"/>
                         <l>The reef in double folds involv'd they lay;</l>
                         <l>Strain the firm cord, and either end belay.</l>
                      </lg>
@@ -1781,7 +1782,7 @@
                         <l>Perhaps a fatal prelude to their own!</l>
                      </lg>
                      <lg>
-                        <pb n="51" facs="tcp:021081_0049_0FB22E784AA1A630"/>
+                        <pb n="51" facs="unknown:021081_0049_0FB22E784AA1A630"/>
                         <l>In dark ſuſpence on deck the pilots ſtand,</l>
                         <l>Nor can determine on the next command.</l>
                         <l n="370"> Though ſtill they knew the veſſel's armed ſide</l>
@@ -1811,7 +1812,7 @@
                         <l>Now down the maſt the ſloping yard declin'd</l>
                         <l>Till by the jears and topping-lift confin'd.<note place="bottom">Ver. <hi>389.</hi> The topping-lift, which <hi>tops</hi> the upper end of the mizen yard (ſee note <hi>257.</hi> pa. <hi>46.</hi>) this line and the ſix following deſcribe the operations of reefing and balancing the mizen. The reef of this ſail is towards the lower and, the knittles being ſmall ſhort lines uſed in the room of points for this purpoſe (ſee notes <hi>132. 148.</hi> pa. <hi>40.</hi>): they are accord<g ref="char:EOLhyphen"/>ingly knotted under the foot-rope, or lower edge of the ſail.</note>
                         </l>
-                        <pb n="52" facs="tcp:021081_0050_0FB22E79D243CFD0"/>
+                        <pb n="52" facs="unknown:021081_0050_0FB22E79D243CFD0"/>
                         <l>The head, with doubling canvas fenc'd around,</l>
                         <l>In balance, near the lofty peak, they bound.</l>
                         <l>The reef enwrapt, th' inſerted knittles ty'd,</l>
@@ -1850,7 +1851,7 @@
                         <l>To ſink the ſeamen with unmanly fear.</l>
                         <l n="420"> Though their firm hearts no pageant honour boaſt,</l>
                         <l>They ſcorn the wretch that trembles in his poſt.</l>
-                        <pb n="53" facs="tcp:021081_0051_0FB22E7C0A4349F0"/>
+                        <pb n="53" facs="unknown:021081_0051_0FB22E7C0A4349F0"/>
                         <l>Who from the face of danger ſtrives to turn,</l>
                         <l>Indignant from the ſocial hour they ſpurn.</l>
                         <l>Though now full oft they felt the raging tide,</l>
@@ -1887,7 +1888,7 @@
                         <l>And fatal lightnings blaſt the hoſtile ſhores;</l>
                         <l>Beneath the ſtorm their ſhatter'd navies groan,</l>
                         <l n="455"> The trembling deeps recoil from zone to zone.</l>
-                        <pb n="54" facs="tcp:021081_0052_0FB22E7D88360D00"/>
+                        <pb n="54" facs="unknown:021081_0052_0FB22E7D88360D00"/>
                         <l>Thus the torn veſſel felt th' enormous ſtroke,</l>
                         <l>The boats beneath the thundering deluge broke;</l>
                         <l>Forth ſtarte<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1922,7 +1923,7 @@
                      <lg>
                         <l>So the brave mariners their pumps attend,</l>
                         <l>And help inceſſant, by rotation lend;</l>
-                        <pb n="55" facs="tcp:021081_0053_0FB22E7FC71D9438"/>
+                        <pb n="55" facs="unknown:021081_0053_0FB22E7FC71D9438"/>
                         <l>But all in vain; for now the founding-cord,</l>
                         <l n="485"> Updr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
@@ -1968,7 +1969,7 @@
                         <l n="515"> This office in the face of death purſue.</l>
                         <l>The wheel'd artillery o'er the deck to guide,</l>
                         <l>Rodmond deſcending claim'd the weather ſide.</l>
-                        <pb n="56" facs="tcp:021081_0054_0FB22E8147230AA8"/>
+                        <pb n="56" facs="unknown:021081_0054_0FB22E8147230AA8"/>
                         <l>Fearleſs of heart the chief his orders gave,</l>
                         <l>Fronting the rude aſſaults of every wave.</l>
                         <l n="520"> Like ſome ſtrong watch-tower nodding o'er the deep,</l>
@@ -2005,7 +2006,7 @@
                         <l>Flaſh through the gloom a pale diſaſtrous light.</l>
                         <l>Above all other, fraught with ſcenes of woe,</l>
                         <l>With grim deſtruction threatens all below.</l>
-                        <pb n="57" facs="tcp:021081_0055_0FB22E82C71F5958"/>
+                        <pb n="57" facs="unknown:021081_0055_0FB22E82C71F5958"/>
                         <l>Bene<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>th the ſtorm-laſh'd ſurges furious riſe,</l>
@@ -2060,7 +2061,7 @@
                            </note>
                         </l>
                         <l n="580"> As ſwept acroſs the graduated chord,</l>
-                        <pb n="58" facs="tcp:021081_0056_0FB22E8445F7B1D8"/>
+                        <pb n="58" facs="unknown:021081_0056_0FB22E8445F7B1D8"/>
                         <l>Her place diſcover'd by the rules of art,</l>
                         <l>Unuſual terrors ſhook the maſter's heart;</l>
                         <l>When Falconera's rugged iſle he found,</l>
@@ -2103,7 +2104,7 @@
                         <l>Our ſad diſti<gap reason="illegible" resp="#PDCC" extent="2 letters">
                               <desc>••</desc>
                            </gap>, already known too well</l>
-                        <pb n="59" facs="tcp:021081_0057_0FB22E868646B850"/>
+                        <pb n="59" facs="unknown:021081_0057_0FB22E868646B850"/>
                         <l>This morn with favouring gales the port we left,</l>
                         <l>Though now of every flattering hope bereft:</l>
                         <l n="615"> No ſkill, nor long experience, could forecaſt</l>
@@ -2140,7 +2141,7 @@
                         <l>Our dropſey'd ſhip may founder by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>ee:</l>
-                        <pb n="60" facs="tcp:021081_0058_0FB22E88065B78D0"/>
+                        <pb n="60" facs="unknown:021081_0058_0FB22E88065B78D0"/>
                         <l>No more obedient to the pilot's power,</l>
                         <l>Th' o'erwhelming wave may ſoon her frame devour."</l>
                      </lg>
@@ -2188,7 +2189,7 @@
                            </gap> her rugged <gap reason="illegible" resp="#PDCC" extent="1 span">
                               <desc>〈…〉</desc>
                            </gap>.</l>
-                        <pb n="61" facs="tcp:021081_0059_0FB22E8A42E545A0"/>
+                        <pb n="61" facs="unknown:021081_0059_0FB22E8A42E545A0"/>
                         <l>Should once her bottom ſtrike that rocky ſhore,</l>
                         <l>The ſplitting bark that inſtant were no more;</l>
                         <l>Nor ſhe alone, but with her all the crew,</l>
@@ -2233,7 +2234,7 @@
                            <gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>ine ſummers yet matur'd his thought.</l>
-                        <pb n="62" facs="tcp:021081_0060_0FB22E8B062B4CC8"/>
+                        <pb n="62" facs="unknown:021081_0060_0FB22E8B062B4CC8"/>
                         <l>So oft he bled by Fortune's cruel dart,</l>
                         <l n="715"> It fell at laſt innoxious on his heart.</l>
                         <l>His mind, ſtill ſhunning care with ſecret hate,</l>
@@ -2272,7 +2273,7 @@
                         <l>Fly from the following blaſt, and ſhoreward ſteer.</l>
                      </lg>
                      <lg>
-                        <pb n="63" facs="tcp:021081_0061_0FB22E8C86110250"/>
+                        <pb n="63" facs="unknown:021081_0061_0FB22E8C86110250"/>
                         <l>"'Tis urg'd indeed, the fury of the gale</l>
                         <l>Precludes the help of every guiding ſail;</l>
                         <l n="750"> And, driven before it on the watery waſte,</l>
@@ -2309,7 +2310,7 @@
                         <l>His boſom felt conſenting tumults beat.</l>
                         <l n="780"> Alas! no ſeaſon this for tender love:</l>
                         <l>Far hence the muſic of the myrtle grove!</l>
-                        <pb n="64" facs="tcp:021081_0062_0FB22E8E0606E478"/>
+                        <pb n="64" facs="unknown:021081_0062_0FB22E8E0606E478"/>
                         <l>With comfort's ſoothing voice, from hope deriv'd,</l>
                         <l>Palemon's drooping ſpirit he reviv'd,</l>
                         <l>For conſolation, oft with healing art,</l>
@@ -2344,7 +2345,7 @@
                         <l n="810"> But that's remote, and inſtant death is here:</l>
                         <l>Yet there by Heaven's aſſiſtance, we may gain</l>
                         <l>Some creek or inlet of the Grecian main;</l>
-                        <pb n="65" facs="tcp:021081_0063_0FB22E8F867EFAA8"/>
+                        <pb n="65" facs="unknown:021081_0063_0FB22E8F867EFAA8"/>
                         <l>Or ſhelter'd by ſome rock, at anchor ride,</l>
                         <l>Till with abating rage, the blaſt ſubſide.</l>
                      </lg>
@@ -2383,7 +2384,7 @@
                         <l>And booms and oars and rafts to leeward caſt.</l>
                         <l n="845"> Thus, while the cordage ſtretch'd aſhore may guide</l>
                         <l>Our brave companions through the ſwelling tide,</l>
-                        <pb n="66" facs="tcp:021081_0064_0FB22E9106AF5590"/>
+                        <pb n="66" facs="unknown:021081_0064_0FB22E9106AF5590"/>
                         <l>This floating lumber ſhall ſuſtain them o'er</l>
                         <l>The rocky ſhelves, in ſafety to the ſhore.</l>
                         <l>But, as your firmeſt ſuccour, till the laſt,</l>
@@ -2423,7 +2424,7 @@
                         <l>Muſt ever at the pump induſtrious ſtand:</l>
                         <l>And while with us the reſt attend to wear,</l>
                         <l>Two ſkilful ſeamen to the helm repair!</l>
-                        <pb n="67" facs="tcp:021081_0065_0FB22E9287919B58"/>
+                        <pb n="67" facs="unknown:021081_0065_0FB22E9287919B58"/>
                         <l n="880"> O ſource of life! our refuge and our ſtay!</l>
                         <l>Whoſe voice the warring elements obey;</l>
                         <l>On thy ſupreme aſſiſtance we rely:</l>
@@ -2482,14 +2483,14 @@
                         </l>
                         <l>Still felt th' impreſſion of the waves and wind,</l>
                         <l n="910"> And to the right and left by turns inclin'd.</l>
-                        <pb n="68" facs="tcp:021081_0066_0FB22E94067EE338"/>
+                        <pb n="68" facs="unknown:021081_0066_0FB22E94067EE338"/>
                         <l>But Albert from behind the balance drew,</l>
                         <l>And on the prow its doubled efforts threw.</l>
                         <l>The order now was given to bear away;</l>
                         <l>The order given, the timoneers obey.</l>
                         <l n="915"> High o'er the bowſprit ſtretch'd the tortur'd ſail,</l>
                         <l>As on the rack, diſtends beneath the gale.</l>
-                        <pb n="69" facs="tcp:021081_0067_0FB22E95860916F8"/>
+                        <pb n="69" facs="unknown:021081_0067_0FB22E95860916F8"/>
                         <l>But ſcarce the yielding prow its impulſe knew</l>
                         <l>When in a thouſand flitting ſhreds it flew!</l>
                      </lg>
@@ -2498,7 +2499,7 @@
                         <l n="920"> And bridling grief, redoubles all his cares.</l>
                         <l>Away there! lower the mizen-yard on deck,</l>
                         <l>He calls, and brace the foremoſt yards aback!</l>
-                        <pb n="70" facs="tcp:021081_0068_0FB23AD157A1F8F8"/>
+                        <pb n="70" facs="unknown:021081_0068_0FB23AD157A1F8F8"/>
                         <l>His great example every boſom fires,</l>
                         <l>New life rekindles, and new hope inſpires.</l>
                         <l n="925"> While to the helm unfaithful ſtill ſhe lies,</l>
@@ -2509,7 +2510,7 @@
                         <l n="930"> At his command the trembling cords divide.</l>
                         <l>Faſt by the fated pine bold Rodmond ſtands;</l>
                         <l>Th' impatient ax hung gleaming in his hands;</l>
-                        <pb n="71" facs="tcp:021081_0069_0FB23AD2468BC030"/>
+                        <pb n="71" facs="unknown:021081_0069_0FB23AD2468BC030"/>
                         <l>Brandiſh'd on high it fell with dreadful ſound;</l>
                         <l>The tall maſt groaning, felt the deadly wound.</l>
                         <l n="935"> Deep-gaſh'd with ſores, the tottering ſtructure rings,</l>
@@ -2528,7 +2529,7 @@
                      <trailer>END OF THE SECOND CANTO.</trailer>
                   </div>
                   <div n="3" type="canto">
-                     <pb facs="tcp:021081_0070_0FB23AD3C59BCE68"/>
+                     <pb facs="unknown:021081_0070_0FB23AD3C59BCE68"/>
                      <head>CANTO III.</head>
                      <argument>
                         <p>The Argument. The deſign and influence of poetry: applied to the ſubject. Wreck of the mizen-maſt cleared away. Ship veers be<g ref="char:EOLhyphen"/>fore the wind; her violent agitation. Different ſtations of the officers. Appearance of the iſland of Falconera. Excurſion to the adjacent nations of Greece, renowned in antiquity. Athens. Socrates. Plato. Ariſtides. Solon. Corinth. Sparta. Leonidas. Invaſion of Xerxes. Ly<g ref="char:EOLhyphen"/>curgus. Epaminondas. Modern appearance. Arcadia; its former happineſs and fertility; preſent diſtreſs, the effect of ſlavery. Ithaca. Ulyſſes and Penelope. Argos and Mycenae. Agamemnon. Macroniſi. Lemnos. Vul<g ref="char:EOLhyphen"/>can and Venus. Delos. Apollo and Diana. Troy. Seſtos. Leander and Hero. Delphos. Temple of Apollo. Parnaſſus. The Muſes. The ſubject reſumed. Sparkling of the ſea. Prodigious tempeſt, accompanied with rain, hail, and meteors. Darkneſs, lightning, and thunder. Approach of day. Diſcovery of land. The ſhip in great danger paſſes the iſland of St. George; turns her broad<g ref="char:EOLhyphen"/>ſide to the ſhore; her bowſprit, fore-maſt and maintop<g ref="char:EOLhyphen"/>maſt carried away; ſhe ſtrikes a rock; ſplits aſunder. Fate of the crew.</p>
@@ -2536,7 +2537,7 @@
                      <lg>
                         <l>WHEN in a barbarous age, with blood defil'd,</l>
                         <l>The human ſavage roam'd the gloomy wild;</l>
-                        <pb n="73" facs="tcp:021081_0071_0FB23AD5465F2A20"/>
+                        <pb n="73" facs="unknown:021081_0071_0FB23AD5465F2A20"/>
                         <l>When ſullen Ignorance her flag diſplay'd,</l>
                         <l>And Rapine and Revenge her voice obey'd;</l>
                         <l n="5"> Sent from the ſhores of light the Muſes came,</l>
@@ -2569,7 +2570,7 @@
                         <l>Far from the light of his unerring ray!</l>
                         <l>While all unus'd the wayward path to tread,</l>
                         <l>Darkling I wander with prophetic dread.</l>
-                        <pb n="74" facs="tcp:021081_0072_0FB23AD6CBDA83F0"/>
+                        <pb n="74" facs="unknown:021081_0072_0FB23AD6CBDA83F0"/>
                         <l n="35"> To me in vain the bold Maeonian lyre</l>
                         <l>Awakes the numbers, fraught with living fire!</l>
                         <l>Full oft, indeed, that mournful harp of yore</l>
@@ -2605,7 +2606,7 @@
                         </l>
                         <l n="65"> You timoneers her motion ſtill attend!</l>
                         <l>For on your ſteerage all our lives depend.</l>
-                        <pb n="75" facs="tcp:021081_0073_0FB23AD9078268B8"/>
+                        <pb n="75" facs="unknown:021081_0073_0FB23AD9078268B8"/>
                         <l>So, ſteady! meet her, watch the blaſt behind,<note place="bottom">Ver. <hi>67.</hi> Steady, is the order to ſteer the ſhip according to the line on which ſhe advances at that inſtant, without de<g ref="char:EOLhyphen"/>viating to the right or left thereof.</note>
                         </l>
                         <l>And ſteer her right before the ſeas and wind!</l>
@@ -2642,7 +2643,7 @@
                            </gap> gale,</l>
                         <l n="95"> Till up the dreadful height again ſhe flies,</l>
                         <l>Trembling beneath the current of the ſkies.</l>
-                        <pb n="76" facs="tcp:021081_0074_0FB23ADA8697E1A8"/>
+                        <pb n="76" facs="unknown:021081_0074_0FB23ADA8697E1A8"/>
                         <l>As that rebellious angel who, from heaven,</l>
                         <l>To regions of eternal pain was driven;</l>
                         <l>When dreadleſs he forſook the Stygian ſhore,</l>
@@ -2680,7 +2681,7 @@
                         <l>O'er the broad champain ſcuds the trembling roe.</l>
                         <l>That danger paſt, reſlects a ſeable joy;</l>
                         <l n="130"> But ſoon returning ſears their hope deſtroy.</l>
-                        <pb n="77" facs="tcp:021081_0075_0FB23ADC077D7718"/>
+                        <pb n="77" facs="unknown:021081_0075_0FB23ADC077D7718"/>
                         <l>Thus in th' Atlantic, oft the ſailor eyes,</l>
                         <l>While melting in the reign of ſofter ſkies,</l>
                         <l>Some Alp of ice, from polar regions blown,</l>
@@ -2729,7 +2730,7 @@
                         <l>Approach'd to taſte the ſweet Caſtalian ſtream.</l>
                         <l>(Since thoſe ſalubrious ſtreams, with power divine,</l>
                         <l>To purer ſenſe th' attemper'd ſoul refine)</l>
-                        <pb n="78" facs="tcp:021081_0076_0FB23ADD9AC0C528"/>
+                        <pb n="78" facs="unknown:021081_0076_0FB23ADD9AC0C528"/>
                         <l>His heart, with liberal commerce here unbleſs'd,</l>
                         <l n="165"> Alien to joy! ſincerer grief poſſeſs'd.</l>
                         <l>Yet on the youthful mind, th' impreſſion caſt,</l>
@@ -2771,7 +2772,7 @@
                               </gap>cture</note>
                         </l>
                         <l n="195"> Spread, like the foliage which her pillars crown'd.</l>
-                        <pb n="79" facs="tcp:021081_0077_0FB23ADFC6C7DAE8"/>
+                        <pb n="79" facs="unknown:021081_0077_0FB23ADFC6C7DAE8"/>
                         <l>But now, in fatal deſolation laid,</l>
                         <l>Oblivion o'er it draws a diſmal ſhade.</l>
                      </lg>
@@ -2810,7 +2811,7 @@
                         <l>Indulgent Flora breath'd perpetual May.</l>
                         <l>Where buxoin Ceres taught th' obſequious field,</l>
                         <l>Rich without art, ſpontaneous gifts to yield.</l>
-                        <pb n="80" facs="tcp:021081_0078_0FB23AE14676CCE8"/>
+                        <pb n="80" facs="unknown:021081_0078_0FB23AE14676CCE8"/>
                         <l n="230"> Then with ſome rural nymph ſupremely bleſt,</l>
                         <l>While tranfport glow'd in each enamour'd breaſt;</l>
                         <l>Each faithful ſhepherd told his tender pain,</l>
@@ -2857,7 +2858,7 @@
                               <desc>〈◊〉</desc>
                            </gap> of Helena is ſeen,</l>
                         <l>Where adverſe winds detain'd the Spartan queen;</l>
-                        <pb n="81" facs="tcp:021081_0079_0FB23AE2C8F5DE78"/>
+                        <pb n="81" facs="unknown:021081_0079_0FB23AE2C8F5DE78"/>
                         <l>For whom in arms combin'd the Grecian hoſt,</l>
                         <l n="265"> With vengeance fir'd, invaded Phrygia's coaſt;</l>
                         <l>For whom ſo long they labour'd to deſtroy</l>
@@ -2900,7 +2901,7 @@
                         <l n="295"> Through the long annals of unfolding time!</l>
                         <l>How oft, thy royal bulwarks to defend,</l>
                         <l>Thou ſaw'ſt thy tutelar gods in vain deſcend!</l>
-                        <pb n="82" facs="tcp:021081_0080_0FB23AE44892FA10"/>
+                        <pb n="82" facs="unknown:021081_0080_0FB23AE44892FA10"/>
                         <l>Though chiefs unnumber'd in her cauſe was ſlain,</l>
                         <l>Though nations periſh'd on her bloody plain,</l>
                         <l n="300"> That refuge of perfidious Helen's ſhame</l>
@@ -2939,7 +2940,7 @@
                         <l>Auguſt the fabric! elegant its ſtyle!</l>
                         <l n="330"> On brazen hinges turn'd the ſilver doors,</l>
                         <l>And checquer'd marble pav'd the poliſh'd floors.</l>
-                        <pb n="83" facs="tcp:021081_0081_0FB23AE689634E18"/>
+                        <pb n="83" facs="unknown:021081_0081_0FB23AE689634E18"/>
                         <l>The roofs, where ſtoried tablatures appear'd,</l>
                         <l>On columns of Corinthian mould were rear'd;</l>
                         <l>Of ſhining porphyry the ſhafts were fram'd,</l>
@@ -2975,7 +2976,7 @@
                         <l>Attune the tender ſtrings to bleeding love.</l>
                         <l>All ſadly ſweet the balmy currents roll,</l>
                         <l>Soothing to ſofteſt peace the tortur'd ſoul;</l>
-                        <pb n="84" facs="tcp:021081_0082_0FB23AE8094DCA48"/>
+                        <pb n="84" facs="unknown:021081_0082_0FB23AE8094DCA48"/>
                         <l n="365"> While hill and vale with choral voice around,</l>
                         <l>The muſic of immortal harps reſound,</l>
                         <l>Fair Pleaſure leads in dance the happy Hours,</l>
@@ -3013,7 +3014,7 @@
                         <l>The braveſt leaders guard the broken rear:</l>
                         <l n="395"> Indignant they retire, and long oppoſe</l>
                         <l>Superior armies that around them cloſe;</l>
-                        <pb n="85" facs="tcp:021081_0083_0FB23AE986E077B0"/>
+                        <pb n="85" facs="unknown:021081_0083_0FB23AE986E077B0"/>
                         <l>Still ſhield the flanks; the routed ſquadrons join;</l>
                         <l>And guide the flight in one embodied line.</l>
                      </lg>
@@ -3050,7 +3051,7 @@
                         <l>When Heaven's loud trumpet ſounded o'er his head.</l>
                         <l>It ſeem'd, the wrathful angel of the wind</l>
                         <l n="430"> Had all the horrors of the ſkies combin'd;</l>
-                        <pb n="86" facs="tcp:021081_0084_0FB23AEBC81F6C08"/>
+                        <pb n="86" facs="unknown:021081_0084_0FB23AEBC81F6C08"/>
                         <l>And here, to one ill-fated ſhip oppos'd,</l>
                         <l>At once the dreadful magazine diſclos'd.</l>
                         <l>And lo! tremendous o'er the deep he ſprings,</l>
@@ -3089,7 +3090,7 @@
                         <l>On which, for ever from his boſom torn,</l>
                         <l>The nymph ador'd reſigns her blooming charms,</l>
                         <l>To bleſs with love ſome happier rival's arms.</l>
-                        <pb n="87" facs="tcp:021081_0085_0FB23AED464D8298"/>
+                        <pb n="87" facs="unknown:021081_0085_0FB23AED464D8298"/>
                         <l n="465"> So to Eliza dawn'd that cruel day,</l>
                         <l>That tore Aeneas from her arms away;</l>
                         <l>That ſaw him parting, never to return,</l>
@@ -3122,7 +3123,7 @@
                         <l>Far leſs diſmay'd, Anchiſes' wand'ring ſon<note n="*" place="bottom">Aeneas.</note>
                         </l>
                         <l>Was ſeen the ſtraits of Sicily to ſhun;</l>
-                        <pb n="88" facs="tcp:021081_0086_0FB23AEEC62D92D0"/>
+                        <pb n="88" facs="unknown:021081_0086_0FB23AEEC62D92D0"/>
                         <l>When Palinurus, from the helm, deſcry'd</l>
                         <l>The rocks of Scylla on his eaſtern ſide;</l>
                         <l n="495"> While in the weſt, with hideous yawn diſclos'd,</l>
@@ -3161,7 +3162,7 @@
                      <lg>
                         <l n="525"> But now Athenian mountains they deſcry,</l>
                         <l>And o'er the ſurge Colonna frowns on high;</l>
-                        <pb n="89" facs="tcp:021081_0087_0FB23AF0460FC5E8"/>
+                        <pb n="89" facs="unknown:021081_0087_0FB23AF0460FC5E8"/>
                         <l>Beſide the cape's projecting verge are plac'd</l>
                         <l>A range of columns, long by time defac'd;</l>
                         <l>Firſt planted by devotion to ſuſtain,</l>
@@ -3202,7 +3203,7 @@
                         <l n="560"> Springs onward with accelerated courſe.</l>
                      </lg>
                      <lg>
-                        <pb n="90" facs="tcp:021081_0088_0FB23AF284AB1950"/>
+                        <pb n="90" facs="unknown:021081_0088_0FB23AF284AB1950"/>
                         <l>With mournful look the ſeamen ey'd the ſtrand,</l>
                         <l>Where death's inexorable jaws expand:</l>
                         <l>Swift from their minds elaps'd all dangers paſt,</l>
@@ -3244,7 +3245,7 @@
                               <desc>•</desc>
                            </gap>leeds with ſorrows all its own,</l>
                         <l>Forgets the pangs of friendſhip to bemoan</l>
-                        <pb n="91" facs="tcp:021081_0089_0FB23AF346C857E8"/>
+                        <pb n="91" facs="unknown:021081_0089_0FB23AF346C857E8"/>
                         <l n="595"> Albert and Rodmond and Palemon here,</l>
                         <l>With young Arion, on the maſt appear;</l>
                         <l>Even they, amid th' unſpeakable diſtreſs,</l>
@@ -3283,7 +3284,7 @@
                      <lg>
                         <l>In vain the cords and axes were prepar'd,</l>
                         <l>For now th' audacious ſeas inſult the yard;</l>
-                        <pb n="92" facs="tcp:021081_0090_0FB23AF4C70447A8"/>
+                        <pb n="92" facs="unknown:021081_0090_0FB23AF4C70447A8"/>
                         <l>High o'er the ſhip they thro' a horrid ſhade,</l>
                         <l n="630"> And o'er her burſt, in terrible caſcade.</l>
                         <l>Uplifted on the ſurge to heaven ſhe flies,</l>
@@ -3324,7 +3325,7 @@
                         <l n="660"> And there by oozy tangles grappled faſt:</l>
                         <l>Awhile they bore th' o'erwhelming billows rage,</l>
                         <l>Unequal combat with their fate to wage;</l>
-                        <pb n="93" facs="tcp:021081_0091_0FB23AF648E753D0"/>
+                        <pb n="93" facs="unknown:021081_0091_0FB23AF648E753D0"/>
                         <l>Till all benumb'd and ſeeble they forego</l>
                         <l>Their ſlippery hold, and ſink to ſhades below.</l>
                         <l n="665"> Some, from the main yard-arm impetuous thrown,</l>
@@ -3370,7 +3371,7 @@
                         <l>Her innocence to ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>cour and deſend:</l>
-                        <pb n="94" facs="tcp:021081_0092_0FB23AF87AC8CC30"/>
+                        <pb n="94" facs="unknown:021081_0092_0FB23AF87AC8CC30"/>
                         <l>By youth and indigence ſet forth a prey</l>
                         <l>To lawleſs guilt that flatters to betray.</l>
                         <l>While theſe reflections rack his feeling mind,</l>
@@ -3406,7 +3407,7 @@
                         <l>Two next Arion furious tears away.</l>
                         <l>Hurl'd on the erags, behold, they gaſp! they bleed!</l>
                         <l>And groaning, cling upon th' eluſive weed!</l>
-                        <pb n="95" facs="tcp:021081_0093_0FB23AF946A4F168"/>
+                        <pb n="95" facs="unknown:021081_0093_0FB23AF946A4F168"/>
                         <l n="730"> Another billow burſts in boundleſs roar!</l>
                         <l>Arion ſinks! and Memory views no more!</l>
                      </lg>
@@ -3451,7 +3452,7 @@
                         <l>And of theſe perils of the de<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>p deſery,</l>
-                        <pb n="96" facs="tcp:021081_0094_0FB23AFAC5468E30"/>
+                        <pb n="96" facs="unknown:021081_0094_0FB23AFAC5468E30"/>
                         <l>Rous'd by the bluſtering tempeſt of the night,</l>
                         <l n="765"> Anxious had claim'd Colonna's neighbouring height;</l>
                         <l>When gazing downward on th' adjacent flood;</l>
@@ -3488,7 +3489,7 @@
                         <l n="795"> Thy image, lovely Anna! hung pourtray'd;</l>
                         <l>Th' unconſcious figure ſmiling all ſerene,</l>
                         <l>Suſpended in a golden chain was ſeen.</l>
-                        <pb n="97" facs="tcp:021081_0095_0FB23AFC47D03A98"/>
+                        <pb n="97" facs="unknown:021081_0095_0FB23AFC47D03A98"/>
                         <l>Hadſt thou, ſoft maiden! in this hour of woe,</l>
                         <l>Beheld him writhing from the deadly blow,</l>
                         <l n="800"> What force of art, what language could expreſs</l>
@@ -3525,7 +3526,7 @@
                         <l>"Th' eternal chain of cauſes and effects,</l>
                         <l n="830"> "Let not thy chaſtening miniſters of rage</l>
                         <l>"Afflict with ſharp remorſe his feeble age!</l>
-                        <pb n="98" facs="tcp:021081_0096_0FB23AFDC7CF9688"/>
+                        <pb n="98" facs="unknown:021081_0096_0FB23AFDC7CF9688"/>
                         <l>"And you, Arion! who with theſe the laſt</l>
                         <l>"Of all our crew ſurvive the <hi>Shipwreak</hi> paſt.</l>
                         <l>"Ah! ceaſt to mourn! theſe friendly tears reſtrain!</l>
@@ -3562,7 +3563,7 @@
                         <l>"Congeals my blood, and choaks the ſtream of breath:</l>
                         <l>"Reſign'd ſhe quits her comfortleſs abode,</l>
                         <l n="865"> "To courſe that long, unknown, eternal road.</l>
-                        <pb n="99" facs="tcp:021081_0097_0FB23AFF48BEAD90"/>
+                        <pb n="99" facs="unknown:021081_0097_0FB23AFF48BEAD90"/>
                         <l>"O ſacred ſource of ever-living light!</l>
                         <l>"<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
@@ -3632,7 +3633,7 @@
                         <l>"Untimely periſh'd in the bloom of youth,</l>
                         <l>"Should e'er thy friend arrive on Albion's land,</l>
                         <l n="895"> "He will obey, though painful thy demand:</l>
-                        <pb n="100" facs="tcp:021081_0098_0FB23B014EFAD2D8"/>
+                        <pb n="100" facs="unknown:021081_0098_0FB23B014EFAD2D8"/>
                         <l>"His tongue the dreadful ſtory ſhall diſplay,</l>
                         <l>"And all the horrors of this diſmal day!</l>
                         <l>"Diſaſtrous day! what ruin haſt thou bred!</l>
@@ -3674,7 +3675,7 @@
                   </div>
                </div>
                <div type="poem">
-                  <pb n="101" facs="tcp:021081_0099_0FB23B02463DF620"/>
+                  <pb n="101" facs="unknown:021081_0099_0FB23B02463DF620"/>
                   <head>OCCASIONAL ELEGY</head>
                   <lg>
                      <l>THE ſcene of death is clos'd, the mournful ſtrains</l>
@@ -3717,7 +3718,7 @@
                      <l>'Tis his to groan and periſh in deſpair.</l>
                   </lg>
                   <lg>
-                     <pb n="102" facs="tcp:021081_0100_0FB23B03C6009730"/>
+                     <pb n="102" facs="unknown:021081_0100_0FB23B03C6009730"/>
                      <l>Ye loſt companions of diſtreſs, adieu!</l>
                      <l>Your toils and pains and dangers are no more:</l>
                      <l>The tempeſt now ſhall howl unheard by you,</l>
@@ -3764,7 +3765,7 @@
                      <l>Than we who ſtill ſurvive to wake and weep!</l>
                   </lg>
                   <lg>
-                     <pb n="103" facs="tcp:021081_0101_0FB23B0545747818"/>
+                     <pb n="103" facs="unknown:021081_0101_0FB23B0545747818"/>
                      <l>What though no funeral pomp, no borrow'd tear,</l>
                      <l>Your hour of death to gazing crowds ſhall tell,</l>
                      <l>Nor weeping friends attend your ſable bier,</l>
@@ -3797,7 +3798,7 @@
                   <trailer>END OF THE SHIPWRECK.</trailer>
                </div>
                <div type="poem">
-                  <pb facs="tcp:021081_0102_0FB23B06C5B457A8"/>
+                  <pb facs="unknown:021081_0102_0FB23B06C5B457A8"/>
                   <head>THE SHIPWRECK.</head>
                   <head type="sub">Occaſioned by the Loſs of the <hi>HALSEWELL EAST-INDIAMAN.</hi>
                   </head>
@@ -3824,7 +3825,7 @@
                      <l n="20"> Of mighty ruin and extended woe!</l>
                      <l>Deſtructive deep, whoſe captivating calm</l>
                      <l>Allures the bark with more than ſyren charm;</l>
-                     <pb n="105" facs="tcp:021081_0103_0FB23B08463B13D8"/>
+                     <pb n="105" facs="unknown:021081_0103_0FB23B08463B13D8"/>
                      <l>With plenty ſtor'd, ſhe cheerful ſpreads the ſail,</l>
                      <l>And vainly truſts to the deceitful gale:</l>
                      <l n="25"> Then ſudden howls thy fury from afar,</l>
@@ -3868,7 +3869,8 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:021081_0104_0FB23B09C7D3F3B8" rendition="simple:additions"/>
+                  <pb facs="unknown:021081_0104_0FB23B09C7D3F3B8"
+                      rendition="simple:additions"/>
                   <p>THE STORM, A POEM.</p>
                   <p>DESCRIPTIVE OF THE LATE TEMPEST, Which raged with ſuch deſtructive Fury throughout the ſouthern Parts of North-America, in July, 1788.</p>
                   <p>BY A CITIZEN OF PHILADELPHIA.</p>
@@ -3886,7 +3888,7 @@
                      </gap> MARKET STREET, NEAR FRONT STREET. M.DCC.LXXXVIII</p>
                </div>
                <div type="certification">
-                  <pb facs="tcp:021081_0105_0FB23B0B45829D30"/>
+                  <pb facs="unknown:021081_0105_0FB23B0B45829D30"/>
                   <p>I DO CERTIFY that Meſſrs <hi>Prichard &amp; Hall,</hi> Printers, have entered agreeably to Act of Aſſembly, a Pamphlet, entitled, <q>The Storm, a Poem. Deſcrip<g ref="char:EOLhyphen"/>tive of the late Tempeſt, &amp;c. By a Citizen of Phi<g ref="char:EOLhyphen"/>ladelphia.</q> Printed by them at Philadelphia.—</p>
                   <closer>
                      <dateline>Witneſs my hand <date>this 22d day of September, 1788.</date>
@@ -3895,7 +3897,7 @@
                   </closer>
                </div>
                <div type="preface">
-                  <pb facs="tcp:021081_0106_0FB23B0CC5694CB8"/>
+                  <pb facs="unknown:021081_0106_0FB23B0CC5694CB8"/>
                   <head>PREFACE.</head>
                   <p>WHEN ſubjects of the higheſt importance are ſubmited to the Public, an apology is ne<g ref="char:EOLhyphen"/>ceſſary.</p>
                   <p>I have endeavoured, in verſes at leaſt equal to my own judgment, to expreſs my ideas of a late event, which, whilſt it awakened poetical feeling, muſt have excited national ideas.</p>
@@ -3904,7 +3906,7 @@
             </front>
             <body>
                <div type="poem">
-                  <pb facs="tcp:021081_0107_0FB23B0E5FE36038"/>
+                  <pb facs="unknown:021081_0107_0FB23B0E5FE36038"/>
                   <head>THE STORM, A POEM.</head>
                   <lg>
                      <l>INTENT to praiſe th' ambitious chief or king,</l>
@@ -3929,7 +3931,7 @@
                      <l>Submiſſion learn from ſalutary woe!</l>
                      <l>Aſſiſt the verſe, which ſcorning mean applauſe,</l>
                      <l n="20"> Exerts new vigour in the nobleſt cauſe;</l>
-                     <pb n="112" facs="tcp:021081_0108_0FB23B0FC7DCF850"/>
+                     <pb n="112" facs="unknown:021081_0108_0FB23B0FC7DCF850"/>
                      <l>And boldly warns the valiant and the free,</l>
                      <l>Fluſh'd with proud conqueſt, to depend on thee.</l>
                   </lg>
@@ -3976,7 +3978,7 @@
                      <l>And hopes, not dreads, that fatal ſpunge, a jail.</l>
                   </lg>
                   <lg>
-                     <pb n="113" facs="tcp:021081_0109_0FB23B1146FF6D78"/>
+                     <pb n="113" facs="unknown:021081_0109_0FB23B1146FF6D78"/>
                      <l n="55"> Deſtructive luxury! thou child of eaſe;</l>
                      <l>Thee let the gilded courts of tyrants pleaſe.</l>
                      <l>Far from our rougher plains retire to vales,</l>
@@ -4020,7 +4022,7 @@
                         <hi>Faction,</hi> which rules the many or the few!</l>
                      <l>Who ſtill to <hi>Freedom</hi> pays inſidious court;</l>
                      <l>Borrows her ſmiles, and imitates her port;</l>
-                     <pb n="114" facs="tcp:021081_0110_0FB23B12C5C42688"/>
+                     <pb n="114" facs="unknown:021081_0110_0FB23B12C5C42688"/>
                      <l>Now mildly flatters, and now ſtorms aloud;</l>
                      <l n="90"> Dazzles the rich, and overawes the crowd;</l>
                      <l>Till all by turns obey her powerful arts,</l>
@@ -4061,7 +4063,7 @@
                      <l n="120"> Shall <hi>Genoa's</hi> fate be yours with <hi>Geroa's</hi> gold?</l>
                      <l>Alas! the public wealth when nobles carve,</l>
                      <l>The few may riot, but the people ſtarve!</l>
-                     <pb n="115" facs="tcp:021081_0111_0FB23B14D3063D40"/>
+                     <pb n="115" facs="unknown:021081_0111_0FB23B14D3063D40"/>
                      <l>Or, with the chieftain, whoſe patrician pride,</l>
                      <l>Wed in vain pomp the Adriatic tide,</l>
                      <l n="125"> Say, ſhall ye, in proceſſions captives led,</l>
@@ -4105,7 +4107,7 @@
                      <l n="155"> The maſk and antic garment dares aſſume,</l>
                      <l>And ſcorns at once <hi>Morality</hi> and <hi>Rome.</hi>
                      </l>
-                     <pb n="116" facs="tcp:021081_0112_0FB23B15C9653E30"/>
+                     <pb n="116" facs="unknown:021081_0112_0FB23B15C9653E30"/>
                      <l>In this corrupted, proud, tyrannic ſtate,</l>
                      <l>Who ſtudies to be uſeful, wiſe, or great?</l>
                      <l>To gen'ral good there monaſtries conduce;</l>
@@ -4150,7 +4152,7 @@
                         </gap> deep-lowing, and the gen'ro<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap> ſteed,</l>
-                     <pb n="117" facs="tcp:021081_0113_0FB23B1746366888"/>
+                     <pb n="117" facs="unknown:021081_0113_0FB23B1746366888"/>
                      <l>In Nature's accents utt'ring their diſtreſs,</l>
                      <l>Th' approaching terrors of the ſtorm confeſs.</l>
                      <l>With louder horror bending foreſts roar;</l>
@@ -4187,7 +4189,7 @@
                      <l>Bids the deluded crowd unſheath their ſwords;</l>
                      <l>Should then ſome foreign power invade the ſtate,</l>
                      <l>No more their boſoms burn with factious hate.</l>
-                     <pb n="118" facs="tcp:021081_0114_0FB23B18C9B5C760"/>
+                     <pb n="118" facs="unknown:021081_0114_0FB23B18C9B5C760"/>
                      <l n="225"> But for a ſeaſon all their feuds forbear,</l>
                      <l>Confeſs their danger, and unite from fear.</l>
                   </lg>
@@ -4230,7 +4232,7 @@
                      <l>Rouſe all thy courage; ev'ry ſinew ſtrain.</l>
                      <l>With double care be ev'ry window barr'd;</l>
                      <l>Each aperture with ſtrength and courage guard.</l>
-                     <pb n="119" facs="tcp:021081_0115_0FB23B1A46D01078"/>
+                     <pb n="119" facs="unknown:021081_0115_0FB23B1A46D01078"/>
                      <l>Protect thy wife, protect thy infant charge;</l>
                      <l n="260"> And let the furious monſter rage at large.</l>
                      <l>But has he enter'd?—On the adverſe ſide</l>
@@ -4272,7 +4274,7 @@
                      <l n="290"> Ocean! how many find in thee a grave?</l>
                      <l>Piteous the tale!—The fond, expecting maid</l>
                      <l>Though ſilent, ſeems her lover to upbraid.</l>
-                     <pb n="120" facs="tcp:021081_0116_0FB23B1BC6D31200"/>
+                     <pb n="120" facs="unknown:021081_0116_0FB23B1BC6D31200"/>
                      <l>The wife (ah wiſe no more!) with joy prepares</l>
                      <l>To greet the toil-worn partner of her cares.</l>
                      <l n="295"> The child, with aſking eyes, and half-form'd ſpeech,</l>
@@ -4318,7 +4320,7 @@
                            <desc>•</desc>
                         </gap>y's tears;</l>
                      <l>Stern <hi>Cheſapeak</hi> his frame majeſtic rears.</l>
-                     <pb n="121" facs="tcp:021081_0117_0FB23B1D472C0770"/>
+                     <pb n="121" facs="unknown:021081_0117_0FB23B1D472C0770"/>
                      <l>The once-exulting plains, now ſunk in woe,</l>
                      <l>Through which his tributary rivers flow,</l>
                      <l>Whilſt indignation ſwell'd his lab'ring breaſt,</l>
@@ -4359,7 +4361,7 @@
                      <l>Fair Virtue's hopes ſhall Luxury defeat?</l>
                      <l>Have heroes bled, ſhall patriots plan in vain,</l>
                      <l n="360"> And your ſhort page of hiſtory fury ſtain?</l>
-                     <pb n="122" facs="tcp:021081_0118_0FB23B1ED2454EA0"/>
+                     <pb n="122" facs="unknown:021081_0118_0FB23B1ED2454EA0"/>
                      <l>With vain ideas of falſe grandeur curs'd,</l>
                      <l>The plan of Wiſdom wildly ye revers'd,</l>
                      <l>And, to curs'd luxury unwiſely prone,</l>
@@ -4401,7 +4403,7 @@
                      <l>Mark his dire route—within thy horrid gates,</l>
                      <l>
                         <hi>Squalor,</hi> with <hi>Apathy,</hi> his entrance waits.</l>
-                     <pb n="123" facs="tcp:021081_0119_0FB23B2048021838"/>
+                     <pb n="123" facs="unknown:021081_0119_0FB23B2048021838"/>
                      <l n="395"> Haſtening with ghaſtly ſmile through groaning ſtreets,</l>
                      <l>With love fraternal <hi>Deſpotiſm</hi> he greets;</l>
                      <l>Awes by ſuperior rage the ſervile train,</l>
